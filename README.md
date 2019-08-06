@@ -1,6 +1,8 @@
 # ColorBar
 ColorBar
 
+根据https://github.com/lannaican/ColorBar这位大胸弟的控件改的 。大家谢谢他
+
 ![](-test- down.png)
 
 <p align="center">
