@@ -3,6 +3,14 @@ ColorBar
 
 ![](down.png)
 
+<p align="center">
+	<img src="down.png" alt="Sample"  width="250" height="140">
+	<p align="center">
+		<em>图片示例</em>
+	</p>
+</p>
+
+
 > 1.使用
 ```java
 <com.star.view.colorbar.ColorBar
