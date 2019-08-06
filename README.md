@@ -1,10 +1,10 @@
 # ColorBar
 ColorBar
 
-![](down.png)
+![](-test- down.png)
 
 <p align="center">
-	<img src="down.png" alt="Sample"  width="250" height="140">
+	<img src="down.png" alt="Sample"  width="250" height="400">
 	<p align="center">
 		<em>图片示例</em>
 	</p>
